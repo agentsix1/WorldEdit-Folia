@@ -1,4 +1,4 @@
-<h1>
+ <h1>
     <img src="worldedit-logo.svg" alt="WorldEdit" width="400" /> 
 </h1>
 
