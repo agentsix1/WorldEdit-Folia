@@ -202,7 +202,7 @@ public class ToolCommands {
     }
 
     @Command(
-        name = "info",
+        name = "tooinfo",
         desc = "Block information tool"
     )
     @CommandPermissions("worldedit.tool.info")
